@@ -1,0 +1,51 @@
+ body{
+        background-color:yellowgreen;
+        COLOR: #ffffff
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+ }
+ .BOX-1 h1{
+    text-align: center;
+    text
+}
+
+
+.BOX-2{
+    /* padding-top: 25px;*/
+    PADDING:25px 20px 25px 20px;
+    /*padding-top:
+     padding-right: 25px;
+     padding-left: 20px;
+     padding-bottom: 20px;*/
+     border: 20px brown dotted;
+     width: 80%;
+     border-radius: 10PX;
+     background-color:lightcoral;  
+     FONT-SIZE: 20PX;
+     FONT-WEIGHT: 100;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     line-height: 1.5em;
+ }
+ .button {
+     background-color: blue;
+     color: darkcyan;
+     border-radius: 50px;
+     width: 25%;
+     height: 40px;
+     margin-left: 20em;
+      
+ }
+.my-form{
+     width: 80%;
+ }
+ .my-form{
+     width: 100%;
+ }
+ .my-text {
+     display: block;
+     padding: 10px;
+     margin: 25px;
+     border-radius: 10px;
+     width: 50%;
+ }
+ width: 100%;
